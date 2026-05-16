@@ -1,0 +1,14 @@
+# Derleme çıktıları
+*.o
+tarsau
+
+# Test dosyaları ve arşivler
+*.sau
+*.txt
+*.bin
+binary_test
+
+# Test çıktı dizinleri
+cikti/
+izin_cikti/
+izin_cikti2/
