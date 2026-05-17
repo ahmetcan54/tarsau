@@ -10,5 +10,8 @@ binary_test
 
 # Test çıktı dizinleri
 cikti/
-izin_cikti/
-izin_cikti2/
+izin_cikti*/
+
+# Rapor
+rapor.html
+rapor.pdf
